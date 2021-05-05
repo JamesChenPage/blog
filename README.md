@@ -1,6 +1,9 @@
 # blog URL:
 * https://jameschenpage.github.io/blog/
 
+# blog github repository
+* git clone https://github.com/JamesChenPage/blog.git
+
 
 # Your GitHub Learning Lab Repository for GitHub Pages
 
