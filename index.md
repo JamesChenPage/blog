@@ -1,7 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to James blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
-
-hahaha
+欢迎来到我的blog!
+不定期持续更新，敬请关注！
